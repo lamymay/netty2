@@ -10,6 +10,8 @@ public class ServerTest1 {
 
         System.out.println("hello word");
 //        EventLoopGroup nioEventLoopGroup = new NioEventLoopGroup();
+        short s1 = 1;
+
     }
 
 }
